@@ -1,0 +1,1 @@
+Here we finetune GPT2 with instruction. After the training the model could generate response according to the instruction. The main outcome is in Multi_GPU_training.ipynb. Some helper function code is from Raschka, S. (2024). Build a Large Language Model (from Scratch). Manning Publications.
